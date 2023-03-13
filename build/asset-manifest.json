@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d43cb151.css",
+    "main.js": "/static/js/main.b003dac4.js",
+    "static/media/Blur.png": "/static/media/Blur.a036b56581c37e0c581c.png",
+    "static/media/sliderImg4.jpg": "/static/media/sliderImg4.4e612b8d088051aba895.jpg",
+    "static/media/IconAvanta.png": "/static/media/IconAvanta.eb40dbab163addc9f67e.png",
+    "static/media/sliderImg2.jpg": "/static/media/sliderImg2.c8c4664c2dad86dba218.jpg",
+    "static/media/Монолит.png": "/static/media/Монолит.76161ff40cfc13d73e43.png",
+    "static/media/sliderImg5.jpg": "/static/media/sliderImg5.aebde1d37d3088c61e13.jpg",
+    "static/media/sliderImg3.jpg": "/static/media/sliderImg3.190ecf7ed7ebfbbba590.jpg",
+    "static/media/sliderImg1.jpg": "/static/media/sliderImg1.b030b12f1a56d713e0cb.jpg",
+    "static/media/ВРК1.png": "/static/media/ВРК1.327ce056da5c2068ba5c.png",
+    "static/media/ЗАО _СибЦЦСПЭ_.png": "/static/media/ЗАО _СибЦЦСПЭ_.ba777accf13ac2fb2819.png",
+    "static/media/Logo.svg": "/static/media/Logo.8e57c91c0297fffd815f0421ca61621e.svg",
+    "static/media/Settings.svg": "/static/media/Settings.aa33c6e3932b9549fdbe1dfdd3b47524.svg",
+    "static/media/Experts.svg": "/static/media/Experts.9e25b7a3f95418fc4a322f5f93df1cff.svg",
+    "static/media/Twenty.svg": "/static/media/Twenty.08e377e8e5e2fe8011dc4af5025db0e8.svg",
+    "index.html": "/index.html",
+    "static/media/Document.svg": "/static/media/Document.d0b99bf48ab529773274f26e7258ec97.svg",
+    "static/media/Ruble.svg": "/static/media/Ruble.205c00dab50cb6a7cdc61776919b1a62.svg",
+    "static/media/Line.svg": "/static/media/Line.4068deec5dd694f5a549.svg",
+    "static/media/Strip.svg": "/static/media/Strip.93453ebe75ceea47e90aa595e00039b1.svg",
+    "static/media/TitleEllipse.svg": "/static/media/TitleEllipse.3b437067e78eedf8e901.svg",
+    "static/media/SubtitleEllipse.svg": "/static/media/SubtitleEllipse.3668bd16650f0881a7bd.svg",
+    "main.d43cb151.css.map": "/static/css/main.d43cb151.css.map",
+    "main.b003dac4.js.map": "/static/js/main.b003dac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43cb151.css",
+    "static/js/main.b003dac4.js"
+  ]
+}
